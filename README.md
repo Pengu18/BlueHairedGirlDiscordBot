@@ -19,8 +19,7 @@ For the stable repo go to: [GitHub](https://github.com/Azrael747/Blue-Haired-Gir
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-### Join the official [Discord!](https://discord.gg/tb4mZWtXC8)
-![Discord](https://img.shields.io/discord/795324515034726410?color=blue)
+### Join the official [we dont have a discord anymore because this project kinda died off but thought we would keep it alive on github)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -31,7 +30,7 @@ For the stable repo go to: [GitHub](https://github.com/Azrael747/Blue-Haired-Gir
 
 #### **Devlopers:**
 
-Justin Yates & Azrael
+Justin Yates & Azrael(that was my old github account i dont have access to anymore)
 
 ---------------------------------------------------------------------------------------------------------------------------
 
